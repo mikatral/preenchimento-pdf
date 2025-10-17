@@ -1,0 +1,23 @@
+{
+  "overlay": {
+    "fontSize": 10,
+    "posicoes": {
+      "empresa": [0, 100, 490, "left"],
+      "mensalidade_data": [0, 660, 490, "left"],
+      "emissao_data": [0, 100, 461, "left"],
+      "periodo_data": [0, 620, 461, "left"],
+
+      "nome": [0, 20, 365, "left"],
+      "cpf": [0, 250, 365, "left"],
+      "titularidade": [0, 440, 365, "left"],
+      "plano_1": [0, 580, 365, "left"],
+
+      "valor_1": [0, 750, 365, "right"],
+
+      "total_beneficiarios": [0, 340, 115, "right"],
+      "valor_total": [0, 620, 115, "right"],
+
+      "lista_beneficiarios": [0, 20, 340, "left"]
+    }
+  }
+}
